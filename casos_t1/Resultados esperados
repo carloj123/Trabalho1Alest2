@@ -1,0 +1,14 @@
+
+Resultado dos casos de teste do T1 (2018/2)
+Nos resultados abaixo, considera-se que a raiz da árvore também conta, ou seja, para o caso de exemplo a altura seria 5.
+
+    caso 05: 15
+    caso 10: 16
+    caso 15: 21
+    caso 20: 27
+    caso 25: 25
+    caso 30: 31
+    caso 35: 27
+    caso 40: 33
+    caso 45: 34
+    caso 50: 35
